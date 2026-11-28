@@ -5,33 +5,33 @@
 }
 
 .slidezy-track {
-  transition: transform 0.3s ease;
+  /* transition: transform 0.3s ease; */
 }
 
 .slidezy-slide {
   padding: 30px;
 }
 
-.slidezy-slide:nth-child(1) {
+.slide-1 {
   background: #ff9e0d;
 }
 
-.slidezy-slide:nth-child(2) {
+.slide-2 {
   background-color: #ca17fc;
 }
 
-.slidezy-slide:nth-child(3) {
+.slide-3 {
   background-color: #175ffc;
 }
 
-.slidezy-slide:nth-child(4) {
+.slide-4 {
   background: #0dffbe;
 }
 
-.slidezy-slide:nth-child(5) {
+.slide-5 {
   background-color: #fc173d;
 }
 
-.slidezy-slide:nth-child(6) {
+.slide-6 {
   background-color: #e5fc17;
 }
